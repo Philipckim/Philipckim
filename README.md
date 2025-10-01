@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Philipckim
-- 👀 I’m interested in working in the software development field
-- 🌱 I’m currently learning java and C.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: philipchkim@gmail.com
+- 👀 I’m interested in data analytics, web development, and SWE.
+- 🌱 I’m currently learning Java and C.
+- 💞️ I’m looking to collaborate on website enhancements.
+- 📫 How to reach me: philipckim11@gmail.com
 
 <!---
 Philipckim/Philipckim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
